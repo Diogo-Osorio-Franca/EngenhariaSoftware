@@ -1,0 +1,9 @@
+Skidata
+-Acesso por cartões de usuários frequentes
+-Clientes realizam operações pela internet
+-Registro da placa do carro por câmeras.
+
+Estacionamento /digital
+-Controle do pátio
+-divisão de usuários por tipo
+-Facilidade na atualização das tabelas de preços
